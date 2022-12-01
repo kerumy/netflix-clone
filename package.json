@@ -1,0 +1,7 @@
+{
+  "name": "netflix-clone",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.9"
+  }
+}
